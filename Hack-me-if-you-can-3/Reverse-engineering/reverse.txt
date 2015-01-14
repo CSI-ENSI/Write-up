@@ -1,0 +1,3 @@
+$strings reverse50
+gives an output in which we find this string 'This_should_be_the_flag'
+which is our flag.
