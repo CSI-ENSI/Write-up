@@ -1,0 +1,4 @@
+for decrypting Qr-code
+http://zxing.org/w/decode.jspx
+for decrypting binary 
+http://www.asciitohex.com/
