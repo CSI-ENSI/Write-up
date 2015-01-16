@@ -1,0 +1,5 @@
+The hint of the challenge is "Happy New Year" which tell us that we need to get a score of 2015 in the game but that is impossible in the 4 hours given for the challenge.
+	A look at the source code we could see 3 javascripts files used by the game "src/game/config.js", "src/engine/core.js" and "src/game/main.js"
+	By searching the files for "2015" we could find it in the file main.js but the source code is much complicated to understand
+	A quick search in the internet we find that the best method used to complicate the source code and make it unreadable is the "Javascript Obfuscate"
+	so we use a website like http://jsbeautifier.org/ to de-obfuscate the source code
