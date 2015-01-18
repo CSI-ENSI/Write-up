@@ -1,0 +1,11 @@
+Misc 300 ::Bomb Zip 
+@author Med Amine Ben Asker (twitter) @asker_amine
+                            github.com/yurilaaziz
+
+After extraction of the Misc400.zip.
+There are  two folders. Each folder contains ether another two folders or nothing.
+It seems like a binary tree, which the empty folder is a vertex and the non-empty is a node. The chosen strategy is a preorder.
+The order is: the current : node, the vertex, the right subtree. 
+Now we just need to write a script.
+
+You can write your own script in any programming language you are familiar with.
