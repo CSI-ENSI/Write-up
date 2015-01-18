@@ -19,4 +19,5 @@ Terminal : $ ls -lah misc300 | head -10 | tail -5
 'KDAsMik=\n.jpg' ==> Base64 decode ==> '(0,2).jpg'
 
 All images contains one pixel and are named (x,y).jpg.
-Now we just need to write a script which will build the complete image you can write your own script in any programming language you are familiar with
+Now we just need to write a script which will build the complete image you can write your own script
+in any programming language you are familiar with
