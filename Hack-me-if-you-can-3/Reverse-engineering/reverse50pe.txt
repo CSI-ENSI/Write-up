@@ -1,9 +1,3 @@
 open ollydebugger
 find all referenced text strings==>we find the flag there waiting
 :'Wat1_b0sS'
-reverse150.exe:
-open ollydebugger
-at 0x00401344 we find JNZ SHORT reverse1.0040134D
-we check the adress 004134D and we find it prints out the bad boy message
-so we change it to JZ and run the program and then enter any number to it
-and it prints out our flag:'hakunamatata'
